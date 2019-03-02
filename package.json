@@ -7,6 +7,8 @@
     "@types/node": "11.10.0",
     "@types/react": "16.8.6",
     "@types/react-dom": "16.8.2",
+    "fsevents": "^1.2.7",
+    "materialize-css": "^1.0.0-rc.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",

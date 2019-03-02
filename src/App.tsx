@@ -6,6 +6,7 @@ class App extends Component {
       <div className="App">
           <h2>Todo React branch</h2>
       </div>
+
     );
   }
 }
